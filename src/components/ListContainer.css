@@ -1,0 +1,8 @@
+/* File: src/components/ListContainer.css */
+.list-container {
+  background: #eef4ff;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 250px;
+  min-height: 300px;
+}
